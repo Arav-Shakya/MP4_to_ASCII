@@ -81,4 +81,4 @@ def video_to_ascii(video_path, output_path, new_width=100):
     print("Video processing complete!")
 
 # Convert video to ASCII art video with progress
-video_to_ascii('input.mp4', 'output.mp4', new_width=100)
+video_to_ascii('input.mov', 'output.mov', new_width=100)
